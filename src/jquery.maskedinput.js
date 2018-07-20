@@ -435,12 +435,7 @@ $.fn.extend({
                         tryFireCompleted();
 					}, 0);
 				});
-                if (chrome && android)
-                {
-                    input
-                        .off('input.mask')
-                        .on('input.mask', androidInputEvent);
-                }
+               
 				checkVal(); //Perform initial check for existing values
 		});
 	}
