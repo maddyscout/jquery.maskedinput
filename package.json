@@ -1,5 +1,5 @@
 {
-  "name": "jquery.maskedinput",
+  "name": "jquery.maskedinput.mad",
   "version": "1.4.1",
   "author": "Josh Bush (digitalbush.com)",
   "description": "jQuery Masked Input Plugin",
@@ -16,7 +16,7 @@
   "main": "gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/excellalabs/jquery.maskedinput.git"
+    "url": "git+https://github.com/maddyscout/jquery.maskedinput.git"
   },
   "keywords": [
     "jQuery",
@@ -26,7 +26,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/excellalabs/jquery.maskedinput/issues"
+    "url": "https://github.com/maddyscout/jquery.maskedinput.git/issues"
   },
-  "homepage": "https://github.com/excellalabs/jquery.maskedinput#readme"
+  "homepage": "https://github.com/maddyscout/jquery.maskedinput.git#readme"
 }
